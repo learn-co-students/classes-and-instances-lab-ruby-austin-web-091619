@@ -1,6 +1,6 @@
-Class Person
+class Person
 
 end
 
-    tony = Person.new
-    harry = Person.new
+    adele_goldberg = Person.new
+    alan_kay = Person.new
